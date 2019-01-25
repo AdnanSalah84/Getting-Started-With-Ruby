@@ -8,3 +8,5 @@ end
 report
 
 puts lander_count
+
+$log_level = "debug" # sets Logging verbosity
